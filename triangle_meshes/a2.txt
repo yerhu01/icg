@@ -1,0 +1,8 @@
+The program compiles and renders:
+-Generates triangle meshes of cubes, spheres and cylinders
+-Writes the meshes to a .OBJ file format
+-Reads meshes from .OBJ files and displays them
+-Textures the meshes and displays them
+
+Advanced features:
+-Generates and displays texture mesh of a torus
