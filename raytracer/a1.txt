@@ -1,0 +1,9 @@
+The program compiles and renders:
+-One sphere with Phong shading
+-A single point light source and fixed point of view
+-A floor/plane with Phong shading
+-Cast sphere's shadows in the scene
+
+Advanced features:
+-Plane has a reflective material
+-More rays are casted to anti-alias the image
