@@ -1,0 +1,10 @@
+Geometry-
+-all basic
+Rendering-
+-all basic
+Animation-
+-all basic
+
+Advanced features:
+-bezier curve camera path
+-rigid multifractal
