@@ -1,0 +1,17 @@
+Basic functionality
+-1st executable creates a small animation with..
+	-one level of transformation hierarchy (flapping wings)
+	-one animation bezier path (bat translation/rotation/scale)
+-2nd executable edits Bezier curves
+
+Advanced functionality
+-1st executable
+	-bezier curve based bat wing model
+	-animation saved as a .mov
+	-uses recursive deCasteljau split rule
+	-alphablending
+-2nd executable
+	-uses recursive deCasteljau split rule
+-code quality
+-use of git repository
+-software documentation
